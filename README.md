@@ -23,7 +23,7 @@
 ## Questions? please contact me via email at <hani.ghaderi@me.com> 
 
 
-## Click on the link [tech-blog] (https://secret-thicket-11178.herokuapp.com)
+## Click on the link [tech-blog](https://secret-thicket-11178.herokuapp.com)
 
 ## Web Samples
 
